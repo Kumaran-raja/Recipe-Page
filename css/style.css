@@ -1,0 +1,45 @@
+header{
+    background-color: rgb(67, 152, 124);
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.all{
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: start;
+    left: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    margin-top: 30px;
+    padding-right: 20px;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: beige;
+}
+h2{
+    color: rgb(237, 49, 224);
+}
+ul{
+    padding-left: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+ol{
+    padding-left: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+li{
+    font-size: 20px;
+}
